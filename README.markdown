@@ -1,1 +1,1 @@
-Mobile responsive web site for Jade Moon
+Mobile responsive website for Jade Moon
