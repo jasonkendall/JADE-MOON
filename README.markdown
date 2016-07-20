@@ -1,1 +1,1 @@
-Mobile responsive website for Jade Moon. <a href="jademoon.unstuffeddesign.com">Jade Moon</a>
+Mobile responsive website for Jade Moon. <a href="http://www.jademoon.unstuffeddesign.com">Jade Moon</a>
